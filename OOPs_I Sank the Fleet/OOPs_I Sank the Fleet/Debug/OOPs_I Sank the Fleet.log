@@ -1,0 +1,56 @@
+﻿Build started 05/06/2016 10:41:37 PM.
+     1>Project "E:\Study\CS131\OOPs_I Sank the Fleet\OOPs_I Sank the Fleet\OOPs_I Sank the Fleet.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CSinkTheFleet.cpp
+         CSinkTheFleet.cpp
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.h(36): error C2327: 'CSinkTheFleet::NUMPLAYERS' : is not a type name, static, or enumerator
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.h(36): error C2065: 'NUMPLAYERS' : undeclared identifier
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(128): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(128): error C2664: 'void boxTop(std::ostream &,unsigned short)' : cannot convert argument 2 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(129): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(129): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(130): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(130): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(131): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(131): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(132): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(132): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(133): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(133): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(134): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(134): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(135): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(135): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(136): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(136): error C2664: 'void boxBottom(std::ostream &,unsigned short)' : cannot convert argument 2 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(175): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(175): error C2664: 'void boxTop(std::ostream &,unsigned short)' : cannot convert argument 2 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(176): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(176): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(177): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(177): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(178): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(178): error C2664: 'void boxLine(std::ostream &,const std::string &,unsigned short,unsigned char,char)' : cannot convert argument 3 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(179): error C2597: illegal reference to non-static member 'CSinkTheFleet::BOXWIDTH'
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(179): error C2664: 'void boxBottom(std::ostream &,unsigned short)' : cannot convert argument 2 from 'unknown' to 'unsigned short'
+                 There is no context in which this conversion is possible
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(291): error C3867: 'CShipInfo::getPiecesLeft': function call missing argument list; use '&CShipInfo::getPiecesLeft' to create a pointer to member
+     1>e:\study\cs131\oops_i sank the fleet\oops_i sank the fleet\csinkthefleet.cpp(296): error C3867: 'CPlayer::getPiecesLeft': function call missing argument list; use '&CPlayer::getPiecesLeft' to create a pointer to member
+     1>Done Building Project "E:\Study\CS131\OOPs_I Sank the Fleet\OOPs_I Sank the Fleet\OOPs_I Sank the Fleet.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.53
